@@ -2,5 +2,6 @@
 void main()
 {
   printf("hello user2...!!!"):
-  printf("\this sjf");
+  
+  printf("\nThis is basic c program);
 }
