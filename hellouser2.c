@@ -1,5 +1,7 @@
-include<stdio.h>
+#include<stdio.h>
 void main()
 {
-  print('hello user2...!!!)
-} 
+  printf("hello user2...!!!"):
+  
+  printf("\nThis is basic c program);
+}
